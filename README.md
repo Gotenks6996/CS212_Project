@@ -1,14 +1,30 @@
 # CS212_Project
 
-Create a virtual environment
+A Streamlit-based web app to monitor website latency and packet loss with live updates and visualizations.
 
-python3 -m venv venv             # create venv  
-source venv/bin/activate         # Unix/Mac   
+##  Setup Instructions
 
-Download required libraries
+### 1. Create a Virtual Environment
+
+To isolate project dependencies, create a virtual environment:
+
+```
+python3 -m venv venv
+source venv/bin/activate  # For Unix/Mac
+```
+
+Command to download required libraries
+
+```
 pip install --upgrade pip
-pip install -r requirements.txt   
+pip install -r requirements.txt
+```
 
-Run the app
-streamlit run app.py             
+Command to run the website
+
+```
+streamlit run app.py
+```
+
+        
 
