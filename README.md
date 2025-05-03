@@ -1,4 +1,4 @@
-# CS212_Project
+# NetPulse
 
 A Streamlit-based web app to monitor website latency and packet loss with live updates and visualizations.
 
