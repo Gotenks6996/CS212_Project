@@ -1,0 +1,5 @@
+streamlit                   # Web UI framework :contentReference[oaicite:13]{index=13}
+pythonping                  # ICMP ping library :contentReference[oaicite:14]{index=14}
+plotly                      # Gauge charting library :contentReference[oaicite:15]{index=15}
+validators                  # URL validation :contentReference[oaicite:16]{index=16}
+streamlit-autorefresh       # Auto‑refresh component :contentReference[oaicite:17]{index=17}
