@@ -13,18 +13,18 @@ python3 -m venv venv
 source venv/bin/activate  # For Unix/Mac
 ```
 
-Command to download required libraries
+### 2. Command to download required libraries
 
 ```
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Command to run the website
+### 3. Command to run the website
 
 ```
 streamlit run app.py
 ```
 
-        
+### You can view the report of this project in report.pdf
 
